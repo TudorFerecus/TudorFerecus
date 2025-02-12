@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on developing Wi-Fi based localization in a local network
-- 🌱 I’m currently learning ReactJs and Cibersecurity general concepts
+- 🌱 I’m currently learning about Operating Systems, web sockets and multithreading prgoramming in C.
 - 💬 Ask me about anything really, but especially basketball
 - 📫 How to reach me: @tudorferecus@gmail.com
 - ⚡ Fun fact: though I am 1.72m in height, I did 7 years of semi-pro basketball
